@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vg772
-- 👀 I’m interested in big data analytics & visualisation.
-- 🌱 I’m currently learning python, java, and mongoDb.
+- 👀 I’m interested in data engineering.
+
 
 
 <!---
